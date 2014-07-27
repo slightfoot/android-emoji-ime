@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+	class="com.demondevelopers.emoji.input.lib.ScrollViewWithNotifier"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:padding="@dimen/s_space"
+	android:clipToPadding="false"
+	>
+	<view xmlns:app="http://schemas.android.com/apk/res-auto"
+		class="com.demondevelopers.emoji.input.lib.EmojiGridView"
+		android:id="@+id/emoji_gridview"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		app:columnWidth="@dimen/emoji_gallery_column_size"
+		app:verticalSpacing="@dimen/emoji_gallery_vertical_spacing"
+		app:iconSize="@dimen/emoji_gallery_icon_size"
+		/>
+</view>
