@@ -1,0 +1,7 @@
+<resources>
+	
+	<style name="AppTheme" parent="@android:style/Theme.Light">
+		<item name="compatSelectableItemBackground">@drawable/selectable_item_background</item>
+	</style>
+	
+</resources>

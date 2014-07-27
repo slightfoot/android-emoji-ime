@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="app_name">Emoji Input Example</string>
+	
+	<string name="enter_text_here">Enter text here</string>
+	
+</resources>

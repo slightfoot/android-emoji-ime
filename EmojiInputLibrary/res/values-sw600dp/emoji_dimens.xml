@@ -1,0 +1,8 @@
+<resources>
+	
+	<dimen name="emoji_gallery_height">300dp</dimen>
+	<dimen name="emoji_gallery_icon_size">40dp</dimen>
+	<dimen name="emoji_gallery_column_size">80dp</dimen>
+	<dimen name="s_space">8dp</dimen>
+	
+</resources>
