@@ -21,6 +21,7 @@
 			android:layout_marginRight="64dp"
 			android:hint="@string/enter_text_here"
 			android:inputType="textAutoComplete"
+            android:imeOptions="actionNext"
 			/>
 	</FrameLayout>
 	<FrameLayout
